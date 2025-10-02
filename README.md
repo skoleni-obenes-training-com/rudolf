@@ -1,0 +1,2 @@
+### Whoa
+Ruda devops kurz

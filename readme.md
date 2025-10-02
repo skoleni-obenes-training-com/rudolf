@@ -1,1 +1,0 @@
-Ruda devops kurz
